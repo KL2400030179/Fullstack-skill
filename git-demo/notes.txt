@@ -1,0 +1,2 @@
+Sample notes for the git-demo repository.
+- Created by assistant as example content.
